@@ -1,8 +1,3 @@
-<!-- Top banner -->
-<p align="center" style="margin:0;padding:0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0:0f0c29,100:302b63&fontColor=ffffff&desc=OSS%20Projects%20·%20Python%20·%20DevOps%20·%20AI%20Tools&descAlignY=55&animation=fadeIn" />
-</p>
-
 <!-- Saludo animado (blanco) -->
 <p align="center">
   <img
@@ -11,6 +6,10 @@
   />
 </p>
 
+<!-- Top banner -->
+<p align="center" style="margin:0;padding:0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0:0f0c29,100:302b63&fontColor=ffffff&desc=OSS%20Projects%20·%20Python%20·%20DevOps%20·%20AI%20Tools&descAlignY=55&animation=fadeIn" />
+</p>
 
 <!-- Tu banner (persistente en el repo) -->
 <p align="center" style="margin:0;padding:0;">
