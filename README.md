@@ -1,93 +1,82 @@
-<!-- ====== TOP BANNERS (no gaps) ====== -->
-<div align="center" style="margin:0;padding:0;">
-  <!-- Capsule banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=175&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0:0f0c29,100:302b63&fontColor=ffffff&desc=OSS%20Projects%20%C2%B7%20Python%20%C2%B7%20DevOps%20%C2%B7%20AI%20Tools&descAlignY=55&animation=fadeIn" style="display:block;margin:0;padding:0;"/>
-  <!-- Typing intro (white) -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yosvel+—+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean%2C+and+secure+solutions+with+best+practices." style="display:block;margin:0;padding:0;filter:invert(0);" />
-  <!-- Personal photo banner (put this file in repo root as banner-github.jpg) -->
-  <img src="./banner-github.jpg" alt="CoderDeltaLAN workspace banner" style="display:block;margin:0;padding:0;border-radius:8px;"/>
-</div>
+# Hi, I'm Yosvel — CoderDeltaLAN 👋
 
-<!-- ====== QUICK ACTIONS ====== -->
+<!-- Encabezado premium -->
 <p align="center">
-  <a href="mailto:yosvel.dev@proton.me">
-    <img alt="Email" src="https://img.shields.io/badge/Email%20me-yosvel.dev%40proton.me-0f0c29?style=for-the-badge&logo=protonmail&logoColor=white">
-  </a>
-  <a href="https://www.paypal.com/paypalme/coderdeltalan">
-    <img alt="PayPal" src="https://img.shields.io/badge/Support%20via-PayPal-302b63?style=for-the-badge&logo=paypal&logoColor=white">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0:0f0c29,100:302b63&fontColor=ffffff&desc=OSS%20Projects%20·%20Python%20·%20DevOps%20·%20AI%20Tools&descAlignY=55&animation=fadeIn" />
+</p>
+
+<!-- Banner personalizado -->
+<p align="center">
+  <img src="banner-github.jpg" alt="CoderDeltaLAN Banner"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- **Yosvel** (aka **CoderDeltaLAN**) — Python developer based in **Spain** 🇪🇸.  
-- I love shipping **modern, clean, and secure** solutions following **best practices**.  
-- Focus: **APIs**, **automation**, **DevOps tooling**, and **AI-assisted workflows**.  
-- Terminal-first: **Oh My Zsh** + **Powerlevel10k** on **Arch Linux**.  
+I’m **Yosvel**, a Python developer from Spain 🇪🇸.  
+I’m passionate about building **modern, clean and secure solutions** following the best practices.
+
+- 🚀 Focused on **automation, APIs and DevOps**
+- 🛡️ Skilled in configuring **CI/CD pipelines + Branch Protection**
+- ⚙️ Daily work with **Linux · Zsh (Oh My Zsh + Powerlevel10k) · Docker**
+- 🌱 Continuous learning with a growth mindset
+- 🤝 Open to collaborate on impactful OSS projects
 
 ---
 
-## 🧰 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-302b63?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Poetry-0f0c29?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-302b63?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0f0c29?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-302b63?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oh%20My%20Zsh-0f0c29?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Powerlevel10k-302b63?style=for-the-badge&logo=terminal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch%20Linux-0f0c29?style=for-the-badge&logo=archlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NGINX-302b63?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Tools-0f0c29?style=for-the-badge&logo=openai&logoColor=white"/>
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Zsh-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=percentile" />
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=CoderDeltaLAN&theme=tokyonight&hide_border=false" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&theme=tokyonight&langs_count=8" />
-
-</div>
-
----
-
-## 📌 Featured Repositories
-<div align="center">
-  <a href="https://github.com/CoderDeltaLAN/pybuglint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/CoderDeltaLAN/gh-insights">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=gh-insights&theme=tokyonight" />
-  </a>
-</div>
-
----
-
-## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CoderDeltaLAN&theme=onestar&no-frame=false&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderDeltaLAN&theme=radical&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 📬 Contact
+## 🏆 Achievements & Trophies
 <p align="center">
-  <a href="mailto:yosvel.dev@proton.me">
-    <img alt="Email" src="https://img.shields.io/badge/yosvel.dev%40proton.me-Click%20to%20email-0f0c29?style=for-the-badge&logo=protonmail&logoColor=white">
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=CoderDeltaLAN&theme=onestar&margin-w=8&margin-h=8&column=6&no-frame=true"/>
 </p>
 
-<!-- Notes:
-1) Place banner-github.jpg (your workspace banner) and avatar.jpg in this repo if you want to reference them locally.
-2) GitHub READMEs do not execute JavaScript, so true click-to-copy with toast notification isn't possible here. A mailto button is provided.
-3) Colors follow gradient 0f0c29 -> 302b63 for consistency.
--->
+---
+
+## 🚀 Featured Projects
+🔹 **hola-mundo** — Professional Python template with Poetry, pre-commit and CI/CD  
+🔹 **cli-notes** — Python CLI with SQLite and automated testing  
+🔹 **fastapi-starter** — CRUD API with FastAPI, Docker and GitHub Actions  
+🔹 **ai-patch-verifier** — AI-powered patch verification with trust score + CI/CD ready  
+🔹 **pybuglint** — Python static analysis and linting rules for clean code  
+
+---
+
+## 📫 Contact
+<p align="center">
+📧 <a href="mailto:coderdeltalan.cargo784@8alias.com">coderdeltalan.cargo784@8alias.com</a><br>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:302b63,100:0f0c29"/>
+</p>
+
+<p align="center">
+  <sub>⚡ Clean Code · Automated · Professional</sub><br>
+  <sub>Visits: </sub> <img src="https://visitcount.itsvg.in/api?id=CoderDeltaLAN&icon=5&color=6"/>
+</p>
