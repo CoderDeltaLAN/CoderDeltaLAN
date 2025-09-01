@@ -67,11 +67,6 @@ I’m passionate about building **modern, clean and secure solutions** following
   </a>
 </p>
 
-<p align="center">
-  <sub>Clean code · Automated · Professional</sub><br>
-  <sub>Views:</sub> <img src="https://visitcount.itsvg.in/api?id=CoderDeltaLAN&icon=5&color=6"/>
-</p>
-
 <!-- Footer wave -->
 <p align="center" style="margin:0;padding:0">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:302b63,100:0f0c29"/>
