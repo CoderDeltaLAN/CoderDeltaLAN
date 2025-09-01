@@ -1,17 +1,19 @@
-<!-- Top wave banner -->
-<p align="center" style="margin:0;padding:0">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0:0f0c29,100:302b63&fontColor=ffffff&desc=OSS%20Projects%20%C2%B7%20Python%20%C2%B7%20DevOps%20%C2%B7%20AI%20Tools&descAlignY=55&animation=fadeIn" />
+<!-- Top banner -->
+<p align="center" style="margin:0;padding:0;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0:0f0c29,100:302b63&fontColor=ffffff&desc=OSS%20Projects%20·%20Python%20·%20DevOps%20·%20AI%20Tools&descAlignY=55&animation=fadeIn" />
 </p>
 
-<!-- Animated greeting (white) -->
-<p align="center" style="margin:0;padding:0">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" alt="typing title in white" style="filter: invert(1);" />
+<!-- Saludo animado (blanco) -->
+<p align="center" style="margin:0;padding:0;">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Yosvel+—+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions"
+    alt="Hi, I'm Yosvel — CoderDeltaLAN"
+  />
 </p>
 
-<!-- Personal photo banner (no spacing) -->
-<p align="center" style="margin:0;padding:0">
-  <!-- Place banner-github.jpg in the repo root -->
-  <img src="./banner-github.jpg" alt="CoderDeltaLAN Banner" />
+<!-- Tu banner (persistente en el repo) -->
+<p align="center" style="margin:0;padding:0;">
+  <img src="./assets/banner-github.jpg" alt="CoderDeltaLAN Banner" width="100%" />
 </p>
 
 ---
@@ -57,12 +59,6 @@ I’m passionate about building **modern, clean and secure solutions** following
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CoderDeltaLAN&theme=onestar&margin-w=8&margin-h=8&column=6&no-frame=true"/>
 </p>
-
----
-
-## 📌 Pinned
-> The pinned repositories section appears **below** this README on your profile.
-> Use **“Customize your pins”** on the right side of the profile to select up to six repos.
 
 ---
 
