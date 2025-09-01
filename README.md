@@ -53,7 +53,6 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 ## 📫 Contact
 <p align="center">
-
   <!-- Email plano con etiqueta -->
   📧 **EMAIL:** `coderdeltalan.cargo784@8alias.com`
   &nbsp;&nbsp;
