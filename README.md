@@ -52,35 +52,29 @@ I’m passionate about building **modern, clean and secure solutions** following
 ---
 
 ## 📫 Contact
-<div align="center">
+<p align="center">
 
-  <!-- Email (badge estático, sin enlace) -->
-  <img
-    alt="Email"
-    src="https://img.shields.io/badge/Email-coderdeltalan.cargo784%408alias.com-302b63?style=for-the-badge&labelColor=0f0c29&logo=minutemailer&logoColor=white" />
+  <!-- Email como texto plano -->
+  📧 `coderdeltalan.cargo784@8alias.com`
 
-  <!-- separador fino -->
-  <img width="8" height="1" alt=""/>
+  &nbsp;&nbsp;
 
-  <!-- PayPal -->
+  <!-- Botón de PayPal -->
   <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank" rel="noopener">
     <img
       alt="PayPal"
       src="https://img.shields.io/badge/PayPal-Donate-0f0c29?style=for-the-badge&labelColor=302b63&logo=paypal&logoColor=white" />
   </a>
-</div>
-
-<p align="center">
-  <sub>Clean code · Automated · Professional</sub>
 </p>
 
 <p align="center">
-  <sub>Views:</sub>
-  <img src="https://visitcount.itsvg.in/api?id=CoderDeltaLAN&icon=5&color=6" />
+  <sub>Clean code · Automated · Professional</sub><br>
+  <sub>Views:</sub> <img src="https://visitcount.itsvg.in/api?id=CoderDeltaLAN&icon=5&color=6"/>
 </p>
 
-<!-- Footer wave (una sola vez) -->
+<!-- Footer wave -->
 <p align="center" style="margin:0;padding:0">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:302b63,100:0f0c29"/>
 </p>
+
 
