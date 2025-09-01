@@ -1,25 +1,29 @@
-# Hi, I'm Yosvel — CoderDeltaLAN 👋
-
-<!-- Encabezado premium -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0:0f0c29,100:302b63&fontColor=ffffff&desc=OSS%20Projects%20·%20Python%20·%20DevOps%20·%20AI%20Tools&descAlignY=55&animation=fadeIn" />
+<!-- Top wave banner -->
+<p align="center" style="margin:0;padding:0">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0:0f0c29,100:302b63&fontColor=ffffff&desc=OSS%20Projects%20%C2%B7%20Python%20%C2%B7%20DevOps%20%C2%B7%20AI%20Tools&descAlignY=55&animation=fadeIn" />
 </p>
 
-<!-- Banner personalizado -->
-<p align="center">
-  <img src="banner-github.jpg" alt="CoderDeltaLAN Banner"/>
+<!-- Animated greeting (white) -->
+<p align="center" style="margin:0;padding:0">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" alt="typing title in white" style="filter: invert(1);" />
+</p>
+
+<!-- Personal photo banner (no spacing) -->
+<p align="center" style="margin:0;padding:0">
+  <!-- Place banner-github.jpg in the repo root -->
+  <img src="./banner-github.jpg" alt="CoderDeltaLAN Banner" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I’m **Yosvel**, a Python developer from Spain 🇪🇸.  
+I'm **Yosvel**, a Python developer from Spain 🇪🇸.  
 I’m passionate about building **modern, clean and secure solutions** following the best practices.
 
-- 🚀 Focused on **automation, APIs and DevOps**
-- 🛡️ Skilled in configuring **CI/CD pipelines + Branch Protection**
-- ⚙️ Daily work with **Linux · Zsh (Oh My Zsh + Powerlevel10k) · Docker**
-- 🌱 Continuous learning with a growth mindset
+- 🚀 Focused on **automation, APIs, and DevOps**
+- 🛡️ Skilled in **CI/CD pipelines + Branch Protection** and secure workflows
+- 🧰 Daily stack: **Linux · Zsh (Oh My Zsh + Powerlevel10k) · Docker · FastAPI · Poetry**
+- 📦 I value maintainable codebases: linting, tests, and reproducible environments
 - 🤝 Open to collaborate on impactful OSS projects
 
 ---
@@ -32,7 +36,7 @@ I’m passionate about building **modern, clean and secure solutions** following
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Zsh-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zsh-0f0c29?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ---
@@ -56,18 +60,29 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 ---
 
-## 📫 Contact
-<p align="center">
-📧 <a href="mailto:coderdeltalan.cargo784@8alias.com">coderdeltalan.cargo784@8alias.com</a><br>
-</p>
+## 📌 Pinned
+> The pinned repositories section appears **below** this README on your profile.
+> Use **“Customize your pins”** on the right side of the profile to select up to six repos.
 
 ---
 
+## 📫 Contact
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:302b63,100:0f0c29"/>
+  <a href="mailto:coderdeltalan.cargo784@8alias.com">
+    <img src="https://img.shields.io/badge/Email-coderdeltalan.cargo784%408alias.com-302b63?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.paypal.com/paypalme/coderdeltalan" target="_blank">
+    <img src="https://img.shields.io/badge/PayPal-Donate-0f0c29?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+  </a>
 </p>
 
 <p align="center">
-  <sub>⚡ Clean Code · Automated · Professional</sub><br>
-  <sub>Visits: </sub> <img src="https://visitcount.itsvg.in/api?id=CoderDeltaLAN&icon=5&color=6"/>
+  <sup>Clean code · Automated · Professional</sup><br>
+  <sup>Views:</sup> <img src="https://visitcount.itsvg.in/api?id=CoderDeltaLAN&icon=5&color=6"/>
+</p>
+
+<!-- Footer wave -->
+<p align="center" style="margin:0;padding:0">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:302b63,100:0f0c29"/>
 </p>
