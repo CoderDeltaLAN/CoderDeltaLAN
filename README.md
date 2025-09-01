@@ -56,15 +56,6 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 ---
 
-## 🚀 Featured Projects
-🔹 **hola-mundo** — Professional Python template with Poetry, pre-commit and CI/CD  
-🔹 **cli-notes** — Python CLI with SQLite and automated testing  
-🔹 **fastapi-starter** — CRUD API with FastAPI, Docker and GitHub Actions  
-🔹 **ai-patch-verifier** — AI-powered patch verification with trust score + CI/CD ready  
-🔹 **pybuglint** — Python static analysis and linting rules for clean code  
-
----
-
 ## 📫 Contact
 <p align="center">
 📧 <a href="mailto:coderdeltalan.cargo784@8alias.com">coderdeltalan.cargo784@8alias.com</a><br>
