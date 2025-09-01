@@ -68,7 +68,7 @@ I’m passionate about building **modern, clean and secure solutions** following
     <img src="https://img.shields.io/badge/Email-coderdeltalan.cargo784%408alias.com-302b63?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://www.paypal.com/paypalme/coderdeltalan" target="_blank">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank">
     <img src="https://img.shields.io/badge/PayPal-Donate-0f0c29?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
 </p>
