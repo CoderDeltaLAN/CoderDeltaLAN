@@ -2,15 +2,10 @@
 <p align="center" style="margin:0;padding:0;">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0:0f0c29,100:302b63&fontColor=ffffff&desc=OSS%20Projects%20·%20Python%20·%20DevOps%20·%20AI%20Tools&descAlignY=55&animation=fadeIn" />
 </p>
----
-<!-- Saludo animado (blanco) -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Yosvel+—+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions"
-    alt="Hi, I'm Yosvel — CoderDeltaLAN"
-  />
-</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" alt="Hi, I'm Yosvel — CoderDeltaLAN" />
+</p>
 
 <!-- Tu banner (persistente en el repo) -->
 <p align="center" style="margin:0;padding:0;">
