@@ -54,8 +54,8 @@ I’m passionate about building **modern, clean and secure solutions** following
 ## 📫 Contact
 <p align="center">
 
-  <!-- Email como texto plano -->
-  📧 `coderdeltalan.cargo784@8alias.com`
+  <!-- Email plano con etiqueta -->
+  📧 **EMAIL:** `coderdeltalan.cargo784@8alias.com`
 
   &nbsp;&nbsp;
 
