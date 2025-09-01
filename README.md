@@ -51,23 +51,27 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 ---
 
-## 🏆 Achievements & Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CoderDeltaLAN&theme=onestar&margin-w=8&margin-h=8&column=6&no-frame=true"/>
-</p>
-
----
-
 ## 📫 Contact
 <p align="center">
-  <a href="mailto:coderdeltalan.cargo784@8alias.com">
-    <img src="https://img.shields.io/badge/Email-coderdeltalan.cargo784%408alias.com-302b63?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank">
+  <!-- Email en texto plano, no ejecuta nada -->
+  <code>coderdeltalan.cargo784@8alias.com</code>
+  &nbsp;&nbsp;
+  <!-- PayPal -->
+  <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/PayPal-Donate-0f0c29?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
 </p>
+
+<p align="center">
+  <sup>Clean code · Automated · Professional</sup><br>
+  <sup>Views:</sup> <img src="https://visitcount.itsvg.in/api?id=CoderDeltaLAN&icon=5&color=6"/>
+</p>
+
+<!-- Footer wave -->
+<p align="center" style="margin:0;padding:0">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:302b63,100:0f0c29"/>
+</p>
+
 
 <p align="center">
   <sup>Clean code · Automated · Professional</sup><br>
