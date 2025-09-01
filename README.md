@@ -1,9 +1,6 @@
-<!-- Saludo animado (blanco) -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Yosvel+—+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions"
-    alt="Hi, I'm Yosvel — CoderDeltaLAN"
-  />
+<!-- Animated greeting (white) -->
+<p align="center" style="margin:0;padding:0">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3500&pause=800&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" alt="typing title in white" style="filter: invert(1);" />
 </p>
 
 <!-- Top banner -->
