@@ -13,13 +13,19 @@
 </p>
 
 <!-- ===== Counters row (mismo estilo de Tech Stack) ===== -->
-![GitHub followers](https://img.shields.io/github/followers/CoderDeltaLAN?style=social)
-![GitHub stars](https://img.shields.io/github/stars/CoderDeltaLAN?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=CoderDeltaLAN&color=blue)
-
-![Build](https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/ai-patch-verifier/ci.yml?branch=main)
-![PyPI](https://img.shields.io/pypi/v/pybuglint)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW)
+<p align="center">
+  <!-- Social -->
+  <img src="https://img.shields.io/github/followers/CoderDeltaLAN?style=for-the-badge&logo=github&label=Followers">
+  <img src="https://img.shields.io/github/stars/CoderDeltaLAN?style=for-the-badge&logo=github&label=Stars">
+  <img src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&color=blue&style=for-the-badge&label=Profile+Views">
+  <!-- Build / Package -->
+  <img src="https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/ai-patch-verifier/ci.yml?branch=main&style=for-the-badge&logo=githubactions&label=Build">
+  <img src="https://img.shields.io/pypi/v/pybuglint?style=for-the-badge&logo=pypi&logoColor=white&label=PyPI">
+  <!-- Donate -->
+  <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal&logoColor=white">
+  </a>
+</p>
 
 ---
 
