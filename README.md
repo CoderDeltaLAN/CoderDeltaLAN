@@ -12,13 +12,7 @@
   <img src="./assets/banner-github.jpg" alt="CoderDeltaLAN Banner" width="100%" />
 </p>
 
-<!-- ===== Counters row (mismo estilo de Tech Stack) ===== -->
-cd /home/user/Proyectos/CoderDeltaLAN
-cat >> README.md <<'MD'
-
----
-
-## 🚀 Badges
+<!-- Badges: Followers + Stars + Views + Build + PyPI + Donate -->
 <p align="center">
   <img src="https://img.shields.io/github/followers/CoderDeltaLAN?style=for-the-badge&label=Followers">
   <img src="https://img.shields.io/github/stars/CoderDeltaLAN?style=for-the-badge&label=Stars">
@@ -27,9 +21,10 @@ cat >> README.md <<'MD'
   <img src="https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/ai-patch-verifier/ci.yml?branch=main&style=for-the-badge&label=ai-patch-verifier%20Build">
   <img src="https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/cli-notes/ci.yml?branch=main&style=for-the-badge&label=cli-notes%20Build">
   <img src="https://img.shields.io/pypi/v/pybuglint?style=for-the-badge&label=PyPI%20pybuglint">
-  <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW"><img src="https://img.shields.io/badge/Donate-PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white"></a>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW">
+    <img src="https://img.shields.io/badge/Donate-PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white">
+  </a>
 </p>
-MD
 
 ---
 
