@@ -13,11 +13,13 @@
 </p>
 
 <!-- ===== Counters row (mismo estilo de Tech Stack) ===== -->
-<p align="center">
-  <a href="https://github.com/CoderDeltaLAN">
-    <img alt="Profile Views"
-      src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&label=PROFILE%20VIEWS&color=302b63&style=for-the-badge">
-  </a>
+![GitHub followers](https://img.shields.io/github/followers/CoderDeltaLAN?style=social)
+![GitHub stars](https://img.shields.io/github/stars/CoderDeltaLAN?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=CoderDeltaLAN&color=blue)
+
+![Build](https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/ai-patch-verifier/ci.yml?branch=main)
+![PyPI](https://img.shields.io/pypi/v/pybuglint)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW)
 
 ---
 
@@ -77,20 +79,6 @@ I’m passionate about building **modern, clean and secure solutions** following
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff" height="150"/>
 </p>
-
----
-
-## 🚀 Badges & Stats
-![GitHub followers](https://img.shields.io/github/followers/CoderDeltaLAN?style=social)
-![GitHub stars](https://img.shields.io/github/stars/CoderDeltaLAN?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=CoderDeltaLAN&color=blue)
-
-![Build](https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/ai-patch-verifier/ci.yml?branch=main)
-![PyPI](https://img.shields.io/pypi/v/pybuglint)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&theme=dark)
 
 ---
 
