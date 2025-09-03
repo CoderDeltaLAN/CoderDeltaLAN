@@ -102,7 +102,7 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 ## 📈 Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDeltaLAN&bg_color=0f0c29&color=cfe0ff&line=7aa9ff&point=cfe0ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDeltaLAN&theme=react-dark&hide_border=true&area=true&radius=8&custom_title=Contribution%20Graph" alt="activity graph"/>
 </p>
 
 ---
