@@ -96,10 +96,19 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 ## 📫 Contact
 <p align="center">
-  <i>Support open-source: your donations keep projects clean, secure, and continuously evolving for the global community.</i>
-</p>
-  📧 **EMAIL:** `coderdeltalan.cargo784@8alias.com`
-  &nbsp;&nbsp;
+  <!-- Badge de email 100% texto (seleccionable, sin acción al click) -->
+  <span
+    style="
+      display:inline-block; padding:10px 14px; border-radius:8px;
+      background:#0f0c29; color:#cfe0ff; border:1px solid #302b63;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+      font-weight:700; line-height:1; cursor:text; user-select:text;
+    "
+    title="Selecciona y copia"
+  >
+    📧 EMAIL: <span style="font-weight:800; text-transform:none;">coderdeltalan.cargo784@8alias.com</span>
+  </span>
+  &nbsp;
   <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank" rel="noopener">
     <img alt="PayPal Donate" src="https://img.shields.io/badge/Donate-PayPal-302b63?style=for-the-badge&labelColor=0f0c29&logo=paypal&logoColor=white"/>
   </a>
