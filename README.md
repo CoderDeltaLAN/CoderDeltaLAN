@@ -61,18 +61,44 @@ I’m passionate about building **modern, clean and secure solutions** following
 ---
 
 ## 📌 Featured Repos
-<div align="center" style="display:flex;gap:12px;overflow-x:auto;padding:6px 4px;">
-  <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank">
-    <img height="120" alt="pybuglint"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=tokyonight&hide_border=true">
+
+<div align="center" style="
+  display:flex;
+  gap:14px;
+  overflow-x:auto;
+  padding:8px 6px;
+  scroll-snap-type:x mandatory;
+  -webkit-overflow-scrolling: touch;
+">
+
+  <!-- pybuglint -->
+  <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank" style="text-decoration:none; color:#cfe0ff; scroll-snap-align:start;">
+    <img
+      alt="pybuglint"
+      height="140"
+      style="border-radius:12px; display:block;"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&hide_border=false&border_color=302b63&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&icon_color=7aa9ff" />
+    <div style="font-size:12px; margin-top:6px;">
+      Static analysis for bug-prone Python patterns. CLI + CI-ready.
+    </div>
   </a>
-  <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" target="_blank">
-    <img height="120" alt="ai-patch-verifier"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=tokyonight&hide_border=true">
+
+  <!-- ai-patch-verifier -->
+  <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" target="_blank" style="text-decoration:none; color:#cfe0ff; scroll-snap-align:start;">
+    <img
+      alt="ai-patch-verifier"
+      height="140"
+      style="border-radius:12px; display:block;"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&hide_border=false&border_color=302b63&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&icon_color=7aa9ff" />
+    <div style="font-size:12px; margin-top:6px;">
+      Verify AI-generated diffs. Trust score + CI/CD gate.
+    </div>
   </a>
-  <!-- Añade más repos duplicando uno de los <a> y el contenedor seguirá siendo deslizable -->
+
+  <!-- Duplica <a> para más destacados; el contenedor seguirá siendo deslizable -->
 </div>
-<p align="center"><sub>Scroll → to see more</sub></p>
+
+<p align="center"><sub>Scroll ↔ to see more</sub></p>
 
 ---
 
