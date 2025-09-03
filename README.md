@@ -62,27 +62,15 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 ## 📌 Featured Repos
 <div align="center" style="display:flex;gap:12px;overflow-x:auto;padding:6px 4px;">
-  
-  <!-- pybuglint -->
-  <div style="display:flex;flex-direction:column;align-items:center;max-width:420px;">
-    <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank">
-      <img height="120" alt="pybuglint"
-           src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=tokyonight&hide_border=true">
-    </a>
-    <p style="font-size:13px;line-height:1.4;color:#cfe0ff;margin-top:6px;text-align:center;">
-      Static analysis to catch bugs early. Strict pipeline: ruff, black, pytest, CI/CD.
-    </p>
-  </div>
-
-  <!-- ai-patch-verifier -->
+  <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank">
+    <img height="120" alt="pybuglint"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=tokyonight&hide_border=true&t=desc-20250903-1">
+  </a>
   <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" target="_blank">
     <img height="120" alt="ai-patch-verifier"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=tokyonight&hide_border=true">
+         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=tokyonight&hide_border=true&t=desc-20250903-1">
   </a>
-
-  <!-- Añade más repos duplicando uno de los <a> y el contenedor seguirá siendo deslizable -->
 </div>
-
 <p align="center"><sub>Scroll → to see more</sub></p>
 
 ---
