@@ -18,19 +18,6 @@
     <img alt="Profile Views"
       src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&label=PROFILE%20VIEWS&color=302b63&style=for-the-badge">
   </a>
-  <a href="https://github.com/CoderDeltaLAN?tab=followers" target="_blank">
-    <img alt="Followers"
-      src="https://img.shields.io/github/followers/CoderDeltaLAN?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=302b63&labelColor=0f0c29">
-  </a>
-  <a href="https://github.com/CoderDeltaLAN?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Owner Stars"
-      src="https://custom-icon-badges.demolab.com/github/stars/CoderDeltaLAN?affiliations=OWNER&label=STARS&style=for-the-badge&logo=star&logoColor=white&color=302b63&labelColor=0f0c29">
-  </a>
-  <a href="https://github.com/CoderDeltaLAN/CoderDeltaLAN" target="_blank">
-    <img alt="Hits"
-      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoderDeltaLAN%2FCoderDeltaLAN&title=HITS&count_bg=%23302b63&title_bg=%230f0c29&icon=github.svg&icon_color=%23FFFFFF&edge_flat=true">
-  </a>
-</p>
 
 ---
 
