@@ -100,6 +100,13 @@ I’m passionate about building **modern, clean and secure solutions** following
   <!-- Email plano con etiqueta -->
   📧 **EMAIL:** `coderdeltalan.cargo784@8alias.com`
   &nbsp;&nbsp;
+
+  ---
+  
+  ## 💚 Donations & Sponsorship
+  <p align="center">
+  <i>Support open-source: your donations keep projects clean, secure, and continuously evolving for the global community.</i>
+</p>
   <!-- Botón de PayPal -->
   <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank" rel="noopener">
     <img
@@ -107,7 +114,6 @@ I’m passionate about building **modern, clean and secure solutions** following
       src="https://img.shields.io/badge/PayPal-Donate-0f0c29?style=for-the-badge&labelColor=302b63&logo=paypal&logoColor=white" />
   </a>
 </p>
-
 <!-- Footer wave -->
 <p align="center" style="margin:0;padding:0">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:302b63,100:0f0c29"/>
