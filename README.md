@@ -12,6 +12,26 @@
   <img src="./assets/banner-github.jpg" alt="CoderDeltaLAN Banner" width="100%" />
 </p>
 
+<!-- ===== Counters row (mismo estilo de Tech Stack) ===== -->
+<p align="center">
+  <a href="https://github.com/CoderDeltaLAN">
+    <img alt="Profile Views"
+      src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&label=PROFILE%20VIEWS&color=302b63&style=for-the-badge">
+  </a>
+  <a href="https://github.com/CoderDeltaLAN?tab=followers" target="_blank">
+    <img alt="Followers"
+      src="https://img.shields.io/github/followers/CoderDeltaLAN?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=302b63&labelColor=0f0c29">
+  </a>
+  <a href="https://github.com/CoderDeltaLAN?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Owner Stars"
+      src="https://custom-icon-badges.demolab.com/github/stars/CoderDeltaLAN?affiliations=OWNER&label=STARS&style=for-the-badge&logo=star&logoColor=white&color=302b63&labelColor=0f0c29">
+  </a>
+  <a href="https://github.com/CoderDeltaLAN/CoderDeltaLAN" target="_blank">
+    <img alt="Hits"
+      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoderDeltaLAN%2FCoderDeltaLAN&title=HITS&count_bg=%23302b63&title_bg=%230f0c29&icon=github.svg&icon_color=%23FFFFFF&edge_flat=true">
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -46,29 +66,25 @@ I’m passionate about building **modern, clean and secure solutions** following
 ---
 
 ## 📌 Featured Repos
-<div align="center" style="display:flex;gap:12px;overflow-x:auto;padding:6px 4px;">
-  <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank">
-    <img height="120" alt="pybuglint"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=tokyonight&hide_border=true">
+<p align="center">
+  <a href="https://github.com/CoderDeltaLAN/pybuglint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&icon_color=7aa9ff">
   </a>
-  <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" target="_blank">
-    <img height="120" alt="ai-patch-verifier"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=tokyonight&hide_border=true">
+  <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&icon_color=7aa9ff">
   </a>
-  <!-- Añade más repos duplicando uno de los <a> y el contenedor seguirá siendo deslizable -->
-</div>
-<p align="center"><sub>Scroll → to see more</sub></p>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&theme=radical&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderDeltaLAN&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&icon_color=7aa9ff" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderDeltaLAN&hide_border=true&background=0f0c29&ring=7aa9ff&fire=ffcc66&currStreakNum=cfe0ff&sideNums=cfe0ff&currStreakLabel=9ecbff&sideLabels=9ecbff&dates=9ba7c0" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff" height="150"/>
 </p>
 
 ---
