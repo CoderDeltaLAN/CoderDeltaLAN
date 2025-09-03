@@ -12,13 +12,6 @@
   <img src="./assets/banner-github.jpg" alt="CoderDeltaLAN Banner" width="100%" />
 </p>
 
-<!-- ===== Counters row (mismo estilo de Tech Stack) ===== -->
-<p align="center">
-  <a href="https://github.com/CoderDeltaLAN">
-    <img alt="Profile Views"
-      src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&label=PROFILE%20VIEWS&color=302b63&style=for-the-badge">
-  </a>
-
 ---
 
 ## 👨‍💻 About Me
