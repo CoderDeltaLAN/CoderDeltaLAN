@@ -63,34 +63,56 @@ I’m passionate about building **modern, clean and secure solutions** following
 ## 📌 Featured Repos
 
 <div align="center" style="
-  display:grid;
-  grid-auto-flow:column;
-  grid-auto-columns: 430px;
-  gap:16px;
+  display:flex;
+  gap:18px;
   overflow-x:auto;
-  padding:10px 6px;
+  padding:12px 6px;
   scroll-snap-type:x mandatory;
-  -webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling:touch;
 ">
 
-  <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank" style="scroll-snap-align:start;">
-    <img
-      alt="pybuglint"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&hide_border=false&border_color=302b63&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&icon_color=7aa9ff" />
+  <!-- pybuglint -->
+  <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank" style="
+    flex:0 0 420px;
+    background:#0f0c29;
+    border:1px solid #302b63;
+    border-radius:12px;
+    padding:14px;
+    color:#cfe0ff;
+    text-decoration:none;
+    scroll-snap-align:start;
+    font-family:Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  ">
+    <h3 style="margin:0 0 6px 0;color:#9ecbff;">pybuglint</h3>
+    <p style="margin:0 0 8px 0;font-size:14px;line-height:1.4;">
+      Static analysis to catch bugs early. Strict pipeline: ruff, black, pytest, CI/CD.
+    </p>
+    <span style="font-size:12px;background:#302b63;color:#fff;padding:2px 6px;border-radius:6px;">Python · Lint</span>
   </a>
 
-  <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" target="_blank" style="scroll-snap-align:start;">
-    <img
-      alt="ai-patch-verifier"
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&hide_border=false&border_color=302b63&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&icon_color=7aa9ff" />
+  <!-- ai-patch-verifier -->
+  <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" target="_blank" style="
+    flex:0 0 420px;
+    background:#0f0c29;
+    border:1px solid #302b63;
+    border-radius:12px;
+    padding:14px;
+    color:#cfe0ff;
+    text-decoration:none;
+    scroll-snap-align:start;
+    font-family:Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  ">
+    <h3 style="margin:0 0 6px 0;color:#9ecbff;">ai-patch-verifier</h3>
+    <p style="margin:0 0 8px 0;font-size:14px;line-height:1.4;">
+      Verify AI-generated patches with linting, tests and security checks. Automated CI reports.
+    </p>
+    <span style="font-size:12px;background:#302b63;color:#fff;padding:2px 6px;border-radius:6px;">Python · CLI</span>
   </a>
 
-  <!-- Duplica <a> para más destacados; el carrusel seguirá funcionando -->
 </div>
 
 <p align="center"><sub>Scroll ↔ to see more</sub></p>
+
 
 ---
 
