@@ -80,6 +80,20 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 ---
 
+## 🚀 Badges & Stats
+![GitHub followers](https://img.shields.io/github/followers/CoderDeltaLAN?style=social)
+![GitHub stars](https://img.shields.io/github/stars/CoderDeltaLAN?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=CoderDeltaLAN&color=blue)
+
+![Build](https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/ai-patch-verifier/ci.yml?branch=main)
+![PyPI](https://img.shields.io/pypi/v/pybuglint)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&theme=dark)
+
+---
+
 ## 🏆 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CoderDeltaLAN&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
