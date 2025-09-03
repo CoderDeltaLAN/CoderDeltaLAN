@@ -12,20 +12,16 @@
   <img src="./assets/banner-github.jpg" alt="CoderDeltaLAN Banner" width="100%" />
 </p>
 
-<!-- Counters & social -->
+<!-- KPIs: views • followers • stars • hits -->
 <p align="center">
-  <a href="https://github.com/CoderDeltaLAN">
-    <img src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&label=Profile%20views&color=0f0c29&style=for-the-badge" alt="profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&style=for-the-badge&color=0f0c29&label=PROFILE%20VIEWS" alt="Profile views"/>
   <a href="https://github.com/CoderDeltaLAN?tab=followers">
-    <img src="https://img.shields.io/github/followers/CoderDeltaLAN?label=Followers&style=for-the-badge&color=302b63" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/CoderDeltaLAN?style=for-the-badge&logo=github&label=FOLLOWERS&color=0f0c29&labelColor=302b63" alt="Followers"/>
   </a>
-  <a href="https://github.com/CoderDeltaLAN?tab=repositories&type=source">
-    <img src="https://img.shields.io/github/stars/CoderDeltaLAN?affiliations=OWNER&label=Stars&style=for-the-badge&color=302b63" alt="stars"/>
+  <a href="https://github.com/CoderDeltaLAN?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/CoderDeltaLAN?style=for-the-badge&logo=github&label=STARS&color=0f0c29&labelColor=302b63" alt="Total Stars"/>
   </a>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/CoderDeltaLAN&count_bg=%23302b63&title_bg=%230F0C29&icon=github.svg&icon_color=%23FFFFFF&title=Profile%20hits&edge_flat=true&style=for-the-badge" alt="hits counter"/>
-  </a>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoderDeltaLAN&count_bg=%23302b63&title_bg=%230F0C29&icon=github.svg&icon_color=%23FFFFFF&title=HITS&edge_flat=false" alt="Hits Counter"/>
 </p>
 
 ---
@@ -42,7 +38,7 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 <p align="center">
   <a href="https://coderdeltalan.github.io/cdlan-portfolio/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Portfolio-live-0f0c29?style=for-the-badge&labelColor=302b63&logo=githubpages&logoColor=white" alt="Portfolio live"/>
+    <img src="https://img.shields.io/badge/%E2%86%92%20PORTFOLIO-LIVE-0f0c29?style=for-the-badge&labelColor=302b63" alt="Portfolio Live"/>
   </a>
 </p>
 
@@ -62,56 +58,64 @@ I’m passionate about building **modern, clean and secure solutions** following
 ---
 
 ## 📌 Featured Repos
-<p align="center">
-  <a href="https://github.com/CoderDeltaLAN/pybuglint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=radical&hide_border=true" />
-  </a>
-</p>
+<!-- Carrusel horizontal responsivo (añade más <a> con otra card y aparecerá scroll) -->
+<div align="center" style="margin:0 auto; max-width:100%;">
+  <div style="display:flex; gap:12px; overflow-x:auto; padding:6px 6px 10px; scroll-snap-type:x mandatory;">
+    <a href="https://github.com/CoderDeltaLAN/pybuglint" style="flex:0 0 auto; min-width:420px; scroll-snap-align:start;">
+      <img height="140" alt="pybuglint" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=midnight-purple&hide_border=true">
+    </a>
+    <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" style="flex:0 0 auto; min-width:420px; scroll-snap-align:start;">
+      <img height="140" alt="ai-patch-verifier" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=midnight-purple&hide_border=true">
+    </a>
+    <!-- Ejemplo para futuros destacados:
+    <a href="https://github.com/CoderDeltaLAN/OTRO_REPO" style="flex:0 0 auto; min-width:420px; scroll-snap-align:start;">
+      <img height="140" alt="OTRO_REPO" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=OTRO_REPO&theme=midnight-purple&hide_border=true">
+    </a>
+    -->
+  </div>
+  <sub style="opacity:.8">Desliza ↔ para ver más</sub>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderDeltaLAN&theme=radical&hide_border=true" height="150" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&theme=midnight-purple&hide_border=true" height="150" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderDeltaLAN&theme=midnight-purple&hide_border=true" height="150" alt="streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&theme=radical&hide_border=true" height="150" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&theme=midnight-purple&hide_border=true" height="150" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDeltaLAN&theme=react-dark&hide_border=true&area=true&radius=8&custom_title=Contribution%20Graph" alt="activity graph"/>
 </p>
 
 ---
 
 ## 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CoderDeltaLAN&theme=onedark&no-frame=true&no-bg=true&margin-w=8&title=Stars,Followers,Commit,PullRequest,Issues,Repositories" alt="trophies"/>
-</p>
-
----
-
-## 📈 Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDeltaLAN&theme=github-dark&hide_border=true&custom_title=Contribution%20Graph" alt="activity graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CoderDeltaLAN&theme=onedark&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
 
 ---
 
 ## 📫 Contact
 <p align="center">
-  📧 <strong>EMAIL:</strong> <code>coderdeltalan.cargo784@8alias.com</code>
-  &nbsp;&nbsp;
+  📧 <strong>EMAIL:</strong>
+  <a href="mailto:coderdeltalan.cargo784@8alias.com"><code>coderdeltalan.cargo784@8alias.com</code></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank" rel="noopener">
-    <img
-      alt="PayPal"
-      src="https://img.shields.io/badge/PayPal-Donate-0f0c29?style=for-the-badge&labelColor=302b63&logo=paypal&logoColor=white" />
+    <img alt="PayPal" src="https://img.shields.io/badge/PayPal-Donate-0f0c29?style=for-the-badge&labelColor=302b63&logo=paypal&logoColor=white" />
   </a>
+</p>
+
+<p align="center" style="font-size:14px;">
+  <em>Support open-source: your donations keep projects clean, secure, and continuously evolving for the global community.</em>
 </p>
 
 <!-- Footer wave -->
 <p align="center" style="margin:0;padding:0">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:302b63,100:0f0c29"/>
 </p>
-
