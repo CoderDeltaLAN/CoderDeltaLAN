@@ -4,7 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" alt="Hi, I'm Yosvel — CoderDeltaLAN" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=000000&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=000000&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" alt="Hi, I'm Yosvel — CoderDeltaLAN" />
+  </picture>
 </p>
 
 <!-- Tu banner (persistente en el repo) -->
