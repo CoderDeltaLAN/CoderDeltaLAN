@@ -56,6 +56,7 @@ I’m passionate about building **modern, clean and secure solutions** following
   <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0f0c29"/>
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=0f0c29&labelColor=0f0c29"/>
   <img src="https://img.shields.io/badge/ZSH-6c63ff?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0f0c29"/>
+  <img src="https://img.shields.io/badge/ARCH-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=0f0c29"/>
 </p>
 
 ---
