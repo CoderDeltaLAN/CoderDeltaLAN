@@ -61,58 +61,29 @@ I’m passionate about building **modern, clean and secure solutions** following
 ---
 
 ## 📌 Featured Repos
-
-<div align="center" style="
-  display:flex;
-  gap:18px;
-  overflow-x:auto;
-  padding:12px 6px;
-  scroll-snap-type:x mandatory;
-  -webkit-overflow-scrolling:touch;
-  justify-content:center;
-">
-
+<div align="center" style="display:flex;gap:12px;overflow-x:auto;padding:6px 4px;">
+  
   <!-- pybuglint -->
-  <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank" style="
-    flex:0 0 420px;
-    background:#0f0c29;
-    border:1px solid #302b63;
-    border-radius:12px;
-    padding:16px;
-    color:#cfe0ff;
-    text-decoration:none;
-    scroll-snap-align:start;
-    font-family:Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-  ">
-    <h3 style="margin:0 0 6px 0;color:#9ecbff;">pybuglint</h3>
-    <p style="margin:0 0 10px 0;font-size:14px;line-height:1.4;">
+  <div style="display:flex;flex-direction:column;align-items:center;max-width:420px;">
+    <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank">
+      <img height="120" alt="pybuglint"
+           src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=tokyonight&hide_border=true">
+    </a>
+    <p style="font-size:13px;line-height:1.4;color:#cfe0ff;margin-top:6px;text-align:center;">
       Static analysis to catch bugs early. Strict pipeline: ruff, black, pytest, CI/CD.
     </p>
-    <span style="font-size:12px;background:#302b63;color:#fff;padding:2px 8px;border-radius:6px;">Python · Lint</span>
-  </a>
+  </div>
 
   <!-- ai-patch-verifier -->
-  <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" target="_blank" style="
-    flex:0 0 420px;
-    background:#0f0c29;
-    border:1px solid #302b63;
-    border-radius:12px;
-    padding:16px;
-    color:#cfe0ff;
-    text-decoration:none;
-    scroll-snap-align:start;
-    font-family:Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-  ">
-    <h3 style="margin:0 0 6px 0;color:#9ecbff;">ai-patch-verifier</h3>
-    <p style="margin:0 0 10px 0;font-size:14px;line-height:1.4;">
-      Verify AI-generated patches with linting, tests and security checks. Automated CI reports.
-    </p>
-    <span style="font-size:12px;background:#302b63;color:#fff;padding:2px 8px;border-radius:6px;">Python · CLI</span>
+  <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" target="_blank">
+    <img height="120" alt="ai-patch-verifier"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=tokyonight&hide_border=true">
   </a>
 
+  <!-- Añade más repos duplicando uno de los <a> y el contenedor seguirá siendo deslizable -->
 </div>
 
-<p align="center"><sub>Scroll ↔ to see more</sub></p>
+<p align="center"><sub>Scroll → to see more</sub></p>
 
 ---
 
