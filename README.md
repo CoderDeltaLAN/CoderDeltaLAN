@@ -30,7 +30,6 @@
     <img alt="Hits"
       src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCoderDeltaLAN%2FCoderDeltaLAN&title=HITS&count_bg=%23302b63&title_bg=%230f0c29&icon=github.svg&icon_color=%23FFFFFF&edge_flat=true">
   </a>
-</p>
 
 ---
 
