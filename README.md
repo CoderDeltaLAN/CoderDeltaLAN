@@ -99,7 +99,7 @@ I’m passionate about building **modern, clean and secure solutions** following
   <i>Support open-source: your donations keep projects clean, secure, and continuously evolving for the global community.</i>
 </p>
 <p align="center">
-  <img alt="Email" src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-coderdeltalan.cargo784%408alias.com-302b63?style=for-the-badge&labelColor=0f0c29">
+  <img alt="Email" `coderdeltalan.cargo784@8alias.com`
   &nbsp;
   <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank" rel="noopener">
     <img alt="PayPal Donate" src="https://img.shields.io/badge/Donate-PayPal-302b63?style=for-the-badge&labelColor=0f0c29&logo=paypal&logoColor=white"/>
