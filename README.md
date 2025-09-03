@@ -75,41 +75,39 @@ I’m passionate about building **modern, clean and secure solutions** following
   <!-- pybuglint -->
   <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank" style="
     flex:0 0 420px;
-    background:rgba(15,12,41,0.75);
-    border:1px solid rgba(48,43,99,0.8);
-    border-radius:14px;
+    background:#0f0c29;
+    border:1px solid #302b63;
+    border-radius:12px;
     padding:16px;
     color:#cfe0ff;
     text-decoration:none;
     scroll-snap-align:start;
     font-family:Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-    backdrop-filter:blur(6px);
   ">
     <h3 style="margin:0 0 6px 0;color:#9ecbff;">pybuglint</h3>
     <p style="margin:0 0 10px 0;font-size:14px;line-height:1.4;">
       Static analysis to catch bugs early. Strict pipeline: ruff, black, pytest, CI/CD.
     </p>
-    <span style="font-size:12px;background:#302b63;color:#fff;padding:3px 10px;border-radius:6px;">Python · Lint</span>
+    <span style="font-size:12px;background:#302b63;color:#fff;padding:2px 8px;border-radius:6px;">Python · Lint</span>
   </a>
 
   <!-- ai-patch-verifier -->
   <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" target="_blank" style="
     flex:0 0 420px;
-    background:rgba(15,12,41,0.75);
-    border:1px solid rgba(48,43,99,0.8);
-    border-radius:14px;
+    background:#0f0c29;
+    border:1px solid #302b63;
+    border-radius:12px;
     padding:16px;
     color:#cfe0ff;
     text-decoration:none;
     scroll-snap-align:start;
     font-family:Segoe UI,Roboto,Helvetica,Arial,sans-serif;
-    backdrop-filter:blur(6px);
   ">
     <h3 style="margin:0 0 6px 0;color:#9ecbff;">ai-patch-verifier</h3>
     <p style="margin:0 0 10px 0;font-size:14px;line-height:1.4;">
       Verify AI-generated patches with linting, tests and security checks. Automated CI reports.
     </p>
-    <span style="font-size:12px;background:#302b63;color:#fff;padding:3px 10px;border-radius:6px;">Python · CLI</span>
+    <span style="font-size:12px;background:#302b63;color:#fff;padding:2px 8px;border-radius:6px;">Python · CLI</span>
   </a>
 
 </div>
