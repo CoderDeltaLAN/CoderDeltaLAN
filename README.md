@@ -26,6 +26,7 @@
     <img alt="Owner Stars"
       src="https://custom-icon-badges.demolab.com/github/stars/CoderDeltaLAN?affiliations=OWNER&label=STARS&style=for-the-badge&logo=star&logoColor=white&color=302b63&labelColor=0f0c29">
   </a>
+  </a>
 
 ---
 
