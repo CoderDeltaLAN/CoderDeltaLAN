@@ -96,21 +96,15 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 ## 📫 Contact
 <p align="center">
-  <!-- Badge de email 100% texto (seleccionable, sin acción al click) -->
-  <span
-    style="
-      display:inline-block; padding:10px 14px; border-radius:8px;
-      background:#0f0c29; color:#cfe0ff; border:1px solid #302b63;
-      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
-      font-weight:700; line-height:1; cursor:text; user-select:text;
-    "
-    title="Selecciona y copia"
-  >
-    📧 EMAIL: <span style="font-weight:800; text-transform:none;">coderdeltalan.cargo784@8alias.com</span>
-  </span>
-  &nbsp;
+
+  <!-- Email plano con etiqueta -->
+  📧 **EMAIL:** `coderdeltalan.cargo784@8alias.com`
+  &nbsp;&nbsp;
+  <!-- Botón de PayPal -->
   <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank" rel="noopener">
-    <img alt="PayPal Donate" src="https://img.shields.io/badge/Donate-PayPal-302b63?style=for-the-badge&labelColor=0f0c29&logo=paypal&logoColor=white"/>
+    <img
+      alt="PayPal"
+      src="https://img.shields.io/badge/PayPal-Donate-0f0c29?style=for-the-badge&labelColor=302b63&logo=paypal&logoColor=white" />
   </a>
 </p>
 
