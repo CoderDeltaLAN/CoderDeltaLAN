@@ -72,6 +72,11 @@ I’m passionate about building **modern, clean and secure solutions** following
 </div>
 <p align="center"><sub>Scroll → to see more</sub></p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/pybuglint/ci.yml?branch=main&style=for-the-badge&label=pybuglint%20Build">
+  <img src="https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/ai-patch-verifier/ci.yml?branch=main&style=for-the-badge&label=ai-patch-verifier%20Build">
+</p>
+
 ---
 
 ## 📊 GitHub Stats
