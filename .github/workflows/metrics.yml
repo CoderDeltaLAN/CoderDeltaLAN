@@ -1,0 +1,53 @@
+---
+name: Generate GitHub Metrics
+
+"on":
+  schedule:
+    - cron: "0 * * * *"   # cada hora
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate metrics.svg
+        uses: lowlighter/metrics@latest
+        with:
+          filename: .github/assets/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: CoderDeltaLAN
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Lisbon
+
+          # Lenguajes con porcentaje
+          plugin_languages: "true"
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_colors: github
+
+          # Racha de contribuciones
+          plugin_streak: "true"
+
+          # Calendario anual de contribuciones
+          plugin_isocalendar: "true"
+          plugin_isocalendar_duration: full-year
+
+          # Seguimiento de PRs/issues
+          plugin_followup: "true"
+          plugin_followup_sections:
+            - repositories
+            - user
+
+          # Repos destacados
+          plugin_repositories: "true"
+          plugin_repo: "true"
+          plugin_repositories_featured: |
+            CoderDeltaLAN/pybuglint,
+            CoderDeltaLAN/ai-patch-verifier

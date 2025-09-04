@@ -1,131 +1,70 @@
-<!-- Top banner -->
-<p align="center" style="margin:0;padding:0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0:0f0c29,100:302b63&fontColor=ffffff&desc=OSS%20Projects%20·%20Python%20·%20DevOps%20·%20AI%20Tools&descAlignY=55&animation=fadeIn" />
+<!-- Encabezado premium -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0%3A0f0c29%2C100%3A302b63&fontColor=0F0C29&desc=Python+Developer+%7C+Open+Source+Builder+%7C+CI%2FCD&descAlignY=55&animation=fadeIn#gh-light-mode-only" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=CoderDeltaLAN&fontAlign=50&fontAlignY=35&color=0%3A0f0c29%2C100%3A302b63&fontColor=CFE0FF&desc=Python+Developer+%7C+Open+Source+Builder+%7C+CI%2FCD&descAlignY=55&animation=fadeIn#gh-dark-mode-only" />
 </p>
+
+<!-- Banner fotográfico -->
+<p align="center">
+  <img src="assets/banner-github.jpg" alt="Workspace banner" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Yosvel — <code>CoderDeltaLAN</code> 👋</h1>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=000000&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&duration=3000&color=000000&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+Yosvel+%E2%80%94+CoderDeltaLAN+%F0%9F%91%8B;Python+developer+from+Spain+%F0%9F%87%AA%F0%9F%87%B8;I+build+modern%2C+clean+and+secure+solutions" alt="Hi, I'm Yosvel — CoderDeltaLAN" />
-  </picture>
+  <a href="https://github.com/CoderDeltaLAN?tab=followers"><img src="https://img.shields.io/github/followers/CoderDeltaLAN?style=flat#gh-light-mode-only" alt="Followers"></a>
+  <a href="https://github.com/CoderDeltaLAN?tab=followers"><img src="https://img.shields.io/github/followers/CoderDeltaLAN?style=flat#gh-dark-mode-only" alt="Followers"></a>
+  <a href="https://github.com/CoderDeltaLAN"><img src="https://img.shields.io/github/stars/CoderDeltaLAN?affiliations=OWNER%2CCOLLABORATOR&style=flat&logoColor=0F0C29#gh-light-mode-only" alt="Stars"></a>
+  <a href="https://github.com/CoderDeltaLAN"><img src="https://img.shields.io/github/stars/CoderDeltaLAN?affiliations=OWNER%2CCOLLABORATOR&style=flat&logoColor=7AA9FF#gh-dark-mode-only" alt="Stars"></a>
+  <img src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&style=flat&color=0E75B6#gh-light-mode-only" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&style=flat&color=0E75B6#gh-dark-mode-only" alt="Profile views">
 </p>
 
-<!-- Tu banner (persistente en el repo) -->
-<p align="center" style="margin:0;padding:0;">
-  <img src="./assets/banner-github.jpg" alt="CoderDeltaLAN Banner" width="100%" />
-</p>
+### About me
+- 🧰 Python first; also exploring Rust & Node.
+- 🧪 Passionate about clean OSS: useful, tested, with CI/CD.
+- 🖥️ Tiling, terminal, and custom split keyboard enjoyer.
 
-<!-- Badges: Followers + Stars + Views + Build + PyPI + Donate -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/CoderDeltaLAN?style=for-the-badge&label=Followers">
-  <img src="https://img.shields.io/github/stars/CoderDeltaLAN?style=for-the-badge&label=Stars">
-  <img src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&style=for-the-badge&label=Profile+Views">
-  <img src="https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/pybuglint/ci.yml?branch=main&style=for-the-badge&label=pybuglint%20Build">
-  <img src="https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/ai-patch-verifier/ci.yml?branch=main&style=for-the-badge&label=ai-patch-verifier%20Build">
-  <img src="https://img.shields.io/github/actions/workflow/status/CoderDeltaLAN/cli-notes/ci.yml?branch=main&style=for-the-badge&label=cli-notes%20Build">
-  <img src="https://img.shields.io/pypi/v/pybuglint?style=for-the-badge&label=PyPI%20pybuglint">
-  <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW">
-    <img src="https://img.shields.io/badge/Donate-PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white">
-  </a>
-</p>
+### Tech
+`Python` · `FastAPI` · `Flask` · `Pydantic` · `Poetry` · `Docker` · `Linux` · `Bash` · `GitHub Actions`
+
+### Open Source Highlights
+- 🧩 *(Add your top repos here with one-line descriptions)*
+
+### Contact
+- ✉️ Email: `coderdeltalan.cargo784@8alias.com`
+- ☕ Support: [Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW)
 
 ---
 
-## 👨‍💻 About Me
-I'm **Yosvel**, a Python developer from Spain 🇪🇸.  
-I’m passionate about building **modern, clean and secure solutions** following the best practices.
+> “Code, measure, iterate.”
 
-- 🚀 Focused on **automation, APIs, and DevOps**
-- 🛡️ Skilled in **CI/CD pipelines + Branch Protection** and secure workflows
-- 🧰 Daily stack: **Linux · Zsh (Oh My Zsh + Powerlevel10k) · Docker · FastAPI · Poetry**
-- 📦 I value maintainable codebases: linting, tests, and reproducible environments
-- 🤝 Open to collaborate on impactful OSS projects
-
+## 🚀 Badges
 <p align="center">
-  <a href="https://coderdeltalan.github.io/cdlan-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/→%20PORTFOLIO-LIVE-302b63?style=for-the-badge&labelColor=0f0c29">
-  </a>
+  <img src="https://img.shields.io/github/followers/CoderDeltaLAN?style=for-the-badge&label=Followers&logoColor=0F0C29#gh-light-mode-only">
+  <img src="https://img.shields.io/github/followers/CoderDeltaLAN?style=for-the-badge&label=Followers&logoColor=7AA9FF#gh-dark-mode-only">
+  <img src="https://img.shields.io/github/stars/CoderDeltaLAN?style=for-the-badge&label=Stars&logoColor=0F0C29#gh-light-mode-only">
+  <img src="https://img.shields.io/github/stars/CoderDeltaLAN?style=for-the-badge&label=Stars&logoColor=7AA9FF#gh-dark-mode-only">
+  <img src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&style=for-the-badge&label=Profile+Views&color=0E75B6#gh-light-mode-only">
+  <img src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&style=for-the-badge&label=Profile+Views&color=0E75B6#gh-dark-mode-only">
 </p>
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/POETRY-60A5FA?style=for-the-badge&logo=python&logoColor=white&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=0f0c29"/>
-  <img src="https://img.shields.io/badge/ZSH-6c63ff?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=0f0c29"/>
-</p>
-
----
-
 ## 📌 Featured Repos
 <div align="center" style="display:flex;gap:12px;overflow-x:auto;padding:6px 4px;">
   <a href="https://github.com/CoderDeltaLAN/pybuglint" target="_blank">
     <img height="120" alt="pybuglint"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=tokyonight&hide_border=true&t=desc-20250903-1">
+         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=tokyonight&hide_border=true&&bg_color=FFFFFF&title_color=0F0C29&text_color=111111&icon_color=0F0C29&t=202509032008#gh-light-mode-only&t=202509032001&t=202509032003&t=202509032006">
+         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=pybuglint&theme=tokyonight&hide_border=true&&bg_color=0F0C29&title_color=9ECBFF&text_color=CFE0FF&icon_color=7AA9FF&t=202509032008#gh-dark-mode-only&t=202509032001&t=202509032003&t=202509032006">
   </a>
   <a href="https://github.com/CoderDeltaLAN/ai-patch-verifier" target="_blank">
     <img height="120" alt="ai-patch-verifier"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=tokyonight&hide_border=true&t=desc-20250903-1">
+         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=tokyonight&hide_border=true&&bg_color=FFFFFF&title_color=0F0C29&text_color=111111&icon_color=0F0C29&t=202509032008#gh-light-mode-only&t=202509032001&t=202509032003&t=202509032006">
+         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=ai-patch-verifier&theme=tokyonight&hide_border=true&&bg_color=0F0C29&title_color=9ECBFF&text_color=CFE0FF&icon_color=7AA9FF&t=202509032008#gh-dark-mode-only&t=202509032001&t=202509032003&t=202509032006">
+  </a>
+  <a href="https://github.com/CoderDeltaLAN/cli-notes" target="_blank">
+    <img height="120" alt="cli-notes"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=cli-notes&theme=tokyonight&hide_border=true&&bg_color=FFFFFF&title_color=0F0C29&text_color=111111&icon_color=0F0C29&t=202509032008#gh-light-mode-only&t=202509032001&t=202509032003&t=202509032006">
+         src="https://github-readme-stats.vercel.app/api/pin/?username=CoderDeltaLAN&repo=cli-notes&theme=tokyonight&hide_border=true&&bg_color=0F0C29&title_color=9ECBFF&text_color=CFE0FF&icon_color=7AA9FF&t=202509032008#gh-dark-mode-only&t=202509032001&t=202509032003&t=202509032006">
   </a>
 </div>
 <p align="center"><sub>Scroll → to see more</sub></p>
-
----
-
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&icon_color=7aa9ff&cache_seconds=86400" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=CoderDeltaLAN&hide_border=true&background=0f0c29&ring=7aa9ff&fire=ffcc66&currStreakNum=cfe0ff&sideNums=cfe0ff&currStreakLabel=9ecbff&sideLabels=9ecbff&dates=9ba7c0&cache_seconds=86400" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&cache_seconds=86400" height="150"/>
-</p>
-
----
-
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CoderDeltaLAN&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 📈 Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDeltaLAN&bg_color=0f0c29&color=cfe0ff&line=7aa9ff&point=cfe0ff&area=true&hide_border=true" />
-</p>
-
----
-
-## 📫 Contact
-<p align="center">
-
-  <!-- Email plano con etiqueta -->
-  📧 **EMAIL:** `coderdeltalan.cargo784@8alias.com`
-  &nbsp;&nbsp;
-
-  ---
-  
-  ## 💚 Donations & Sponsorship
-  <p align="center">
-  <i>Support open-source: your donations keep projects clean, secure, and continuously evolving for the global community.</i>
-</p>
-  <!-- Botón de PayPal -->
-  <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW" target="_blank" rel="noopener">
-    <img
-      alt="PayPal"
-      src="https://img.shields.io/badge/PayPal-Donate-0f0c29?style=for-the-badge&labelColor=302b63&logo=paypal&logoColor=white" />
-  </a>
-</p>
-<!-- Footer wave -->
-<p align="center" style="margin:0;padding:0">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:302b63,100:0f0c29"/>
-</p>
