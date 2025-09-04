@@ -79,13 +79,14 @@ I’m passionate about building **modern, clean and secure solutions** following
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&icon_color=7aa9ff" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderDeltaLAN&hide_border=true&background=0f0c29&ring=7aa9ff&fire=ffcc66&currStreakNum=cfe0ff&sideNums=cfe0ff&currStreakLabel=9ecbff&sideLabels=9ecbff&dates=9ba7c0" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CoderDeltaLAN&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&icon_color=7aa9ff&cache_seconds=86400" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=CoderDeltaLAN&hide_border=true&background=0f0c29&ring=7aa9ff&fire=ffcc66&currStreakNum=cfe0ff&sideNums=cfe0ff&currStreakLabel=9ecbff&sideLabels=9ecbff&dates=9ba7c0&cache_seconds=86400" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDeltaLAN&layout=compact&hide_border=true&bg_color=0f0c29&title_color=9ecbff&text_color=cfe0ff&cache_seconds=86400" height="150"/>
 </p>
 
 ---
