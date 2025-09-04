@@ -1,0 +1,4 @@
+.logs/
+.README.stats.tmp
+README.md*.bak
+README.md.conflict.*.bak
