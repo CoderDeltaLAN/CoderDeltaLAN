@@ -31,12 +31,11 @@
 ## 👨‍💻 About Me
 I'm Yosvel, a Python developer from Spain 🇪🇸. I’m passionate about building modern, clean and secure solutions following the best practices.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="18" /> Focused on automation, APIs, and DevOps  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18" /> Skilled in CI/CD pipelines + Branch Protection and secure workflows  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="18" /> Daily stack: Linux · Zsh (Oh My Zsh + Powerlevel10k) · Docker · FastAPI · Poetry  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="18" /> I value maintainable codebases: linting, tests, and reproducible environments  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18" /> Open to collaborate on impactful OSS projects
-
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/workflow.svg?color=white"/><img src="https://api.iconify.design/lucide/workflow.svg?color=black" height="18" /></picture> Focused on automation, APIs, and DevOps  
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/shield-check.svg?color=white"/><img src="https://api.iconify.design/lucide/shield-check.svg?color=black" height="18" /></picture> Skilled in CI/CD pipelines + Branch Protection and secure workflows  
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/terminal.svg?color=white"/><img src="https://api.iconify.design/lucide/terminal.svg?color=black" height="18" /></picture> Daily stack: Linux · Zsh (Oh My Zsh + Powerlevel10k) · Docker · FastAPI · Poetry  
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/list-checks.svg?color=white"/><img src="https://api.iconify.design/lucide/list-checks.svg?color=black" height="18" /></picture> I value maintainable codebases: linting, tests, and reproducible environments  
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/users.svg?color=white"/><img src="https://api.iconify.design/lucide/users.svg?color=black" height="18" /></picture> Open to collaborate on impactful OSS projects
 
 <p align="center">
   <a href="https://coderdeltalan.github.io/cdlan-portfolio/" target="_blank">
