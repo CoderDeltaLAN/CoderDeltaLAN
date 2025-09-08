@@ -91,13 +91,6 @@ I’m passionate about building **modern, clean and secure solutions** following
 
 ---
 
-## 🏆 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CoderDeltaLAN&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
 ## 📈 Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderDeltaLAN&bg_color=0f0c29&color=cfe0ff&line=7aa9ff&point=cfe0ff&area=true&hide_border=true" />
