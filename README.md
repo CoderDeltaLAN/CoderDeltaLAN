@@ -29,14 +29,14 @@
 ---
 
 ## 👨‍💻 About Me
-I'm **Yosvel**, a Python developer from Spain 🇪🇸.
-I’m passionate about building **modern, clean and secure solutions** following the best practices.
+I'm Yosvel, a Python developer from Spain 🇪🇸. I’m passionate about building modern, clean and secure solutions following the best practices.
 
-- 🚀 Focused on **automation, APIs, and DevOps**
-- 🛡️ Skilled in **CI/CD pipelines + Branch Protection** and secure workflows
-- 🧰 Daily stack: **Linux · Zsh (Oh My Zsh + Powerlevel10k) · Docker · FastAPI · Poetry**
-- 📦 I value maintainable codebases: linting, tests, and reproducible environments
-- 🤝 Open to collaborate on impactful OSS projects
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="18" /> Focused on automation, APIs, and DevOps  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18" /> Skilled in CI/CD pipelines + Branch Protection and secure workflows  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="18" /> Daily stack: Linux · Zsh (Oh My Zsh + Powerlevel10k) · Docker · FastAPI · Poetry  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="18" /> I value maintainable codebases: linting, tests, and reproducible environments  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="18" /> Open to collaborate on impactful OSS projects
+
 
 <p align="center">
   <a href="https://coderdeltalan.github.io/cdlan-portfolio/" target="_blank">
