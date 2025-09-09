@@ -97,15 +97,6 @@ I'm Yosvel, a Python developer from Spain 🇪🇸. I’m passionate about build
 
 ---
 
-## 📫 Contact
-<p align="center">
-
-  <!-- Email plano con etiqueta -->
-  📧 **EMAIL:** `coderdeltalan.cargo784@8alias.com`
-  &nbsp;&nbsp;
-
-  ---
-
   ## 💚 Donations & Sponsorship
   <p align="center">
   <i>Support open-source: your donations keep projects clean, secure, and continuously evolving for the global community.</i>
