@@ -19,6 +19,9 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/CoderDeltaLAN?style=for-the-badge&label=FOLLOWERS&color=d4af37&labelColor=050505&logo=github&logoColor=white" alt="GitHub followers">
   <img src="https://komarev.com/ghpvc/?username=CoderDeltaLAN&style=for-the-badge&label=PROFILE+VIEWS&color=0f766e&labelColor=050505" alt="Profile views">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=YVENCBNCZWVPW">
+    <img src="https://img.shields.io/badge/DONATE-PAYPAL-003087?style=for-the-badge&logo=paypal&logoColor=white&labelColor=050505" alt="Donate with PayPal">
+  </a>
 </p>
 
 <p align="center">
