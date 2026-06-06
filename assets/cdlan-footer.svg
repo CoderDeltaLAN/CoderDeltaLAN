@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="280" viewBox="0 0 1600 280" role="img" aria-labelledby="title desc">
+  <title id="title">CDLAN footer</title>
+  <desc id="desc">Animated local footer line for the CoderDeltaLAN GitHub profile.</desc>
+
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020202"/>
+      <stop offset="42%" stop-color="#070707"/>
+      <stop offset="72%" stop-color="#240707"/>
+      <stop offset="100%" stop-color="#020202"/>
+    </linearGradient>
+
+    <linearGradient id="goldFlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5a0f0f"/>
+      <stop offset="28%" stop-color="#d4af37"/>
+      <stop offset="56%" stop-color="#fff1a8"/>
+      <stop offset="78%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#5a0f0f"/>
+      <animate attributeName="x1" values="0;0.25;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0.75;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <pattern id="footerGrid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M 52 0 L 0 0 0 52" fill="none" stroke="#d4af37" stroke-width="0.55" opacity="0.15"/>
+    </pattern>
+
+    <filter id="footerGlow">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="280" fill="url(#footerBg)"/>
+  <rect width="1600" height="280" fill="url(#footerGrid)" opacity="0.65"/>
+
+  <path d="M0 0 L0 44 C240 8, 430 72, 690 34 S1110 8, 1600 48 L1600 0 Z" fill="#050505" opacity="0.96">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="
+        M0 0 L0 44 C240 8, 430 72, 690 34 S1110 8, 1600 48 L1600 0 Z;
+        M0 0 L0 62 C260 88, 470 10, 730 52 S1120 82, 1600 36 L1600 0 Z;
+        M0 0 L0 44 C240 8, 430 72, 690 34 S1110 8, 1600 48 L1600 0 Z
+      "/>
+  </path>
+
+  <path d="M0 58 C250 24, 470 82, 760 54 S1160 18, 1600 62" fill="none" stroke="url(#goldFlow)" stroke-width="5" filter="url(#footerGlow)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0 58 C250 24, 470 82, 760 54 S1160 18, 1600 62;
+        M0 72 C250 106, 470 28, 760 68 S1160 110, 1600 50;
+        M0 58 C250 24, 470 82, 760 54 S1160 18, 1600 62
+      "/>
+  </path>
+
+  <g opacity="0.75" filter="url(#footerGlow)">
+    <circle cx="360" cy="112" r="4" fill="#d4af37">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="775" cy="88" r="4" fill="#0f766e">
+      <animate attributeName="opacity" values="1;0.35;1" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1210" cy="124" r="4" fill="#d4af37">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M360 112 L775 88 L1210 124" fill="none" stroke="#d4af37" stroke-width="1.2" opacity="0.4"/>
+  </g>
+
+  <text x="50%" y="162" text-anchor="middle" fill="#f8fafc" font-family="JetBrains Mono, Consolas, monospace" font-size="30" font-weight="800">
+    CDLAN · VERIFIED SYSTEMS · CLEAR BOUNDARIES
+  </text>
+
+  <text x="50%" y="204" text-anchor="middle" fill="#d4af37" font-family="JetBrains Mono, Consolas, monospace" font-size="23" font-weight="700">
+    maintainable delivery · applied AI · RAG · automation · no private data
+    <animate attributeName="opacity" values="0.72;1;0.72" dur="4.5s" repeatCount="indefinite"/>
+  </text>
+
+  <rect x="-320" y="0" width="180" height="280" fill="#ffffff" opacity="0.045" transform="skewX(-18)">
+    <animate attributeName="x" values="-320;1780" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>

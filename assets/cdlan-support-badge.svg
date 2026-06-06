@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="170" viewBox="0 0 1400 170" role="img" aria-label="Support public work">
+  <rect width="1400" height="170" rx="22" fill="#050505"/>
+  <rect x="18" y="18" width="1364" height="134" rx="18" fill="#070707" stroke="#0f766e" stroke-width="2"/>
+  <rect x="42" y="45" width="1316" height="80" rx="14" fill="#030303" stroke="#d4af37" stroke-width="1.5"/>
+  <path d="M80 86 C250 120, 375 52, 560 86 S850 121, 1035 86 S1240 54, 1320 86" fill="none" stroke="#0f766e" stroke-width="4" opacity=".72"/>
+  <circle cx="91" cy="86" r="7" fill="#d4af37"/>
+  <circle cx="1309" cy="86" r="7" fill="#d4af37"/>
+  <text x="700" y="98" text-anchor="middle" fill="#ffffff" font-family="JetBrains Mono, Consolas, monospace" font-size="42" font-weight="900" letter-spacing="8">SUPPORT · PUBLIC WORK</text>
+</svg>

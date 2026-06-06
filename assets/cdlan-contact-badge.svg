@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="170" viewBox="0 0 1400 170" role="img" aria-label="Open CDLAN Portfolio">
+  <rect width="1400" height="170" rx="22" fill="#050505"/>
+  <rect x="18" y="18" width="1364" height="134" rx="18" fill="#08080b" stroke="#d4af37" stroke-width="2"/>
+  <rect x="42" y="45" width="1316" height="80" rx="14" fill="#030303" stroke="#7f1d1d" stroke-width="1.5"/>
+  <path d="M80 85 C250 52, 370 118, 545 84 S845 52, 1020 85 S1230 120, 1320 84" fill="none" stroke="#d4af37" stroke-width="3" opacity=".75"/>
+  <circle cx="91" cy="85" r="7" fill="#0f766e"/>
+  <circle cx="1309" cy="85" r="7" fill="#0f766e"/>
+  <text x="700" y="98" text-anchor="middle" fill="#ffffff" font-family="JetBrains Mono, Consolas, monospace" font-size="42" font-weight="900" letter-spacing="8">OPEN · CDLAN PORTFOLIO</text>
+</svg>

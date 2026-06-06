@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Yosvel Delta · CoderDeltaLAN — CDLAN AI systems banner</title>
+  <desc id="desc">Animated technological banner for CDLAN, applied AI, RAG, automation and static professional web systems.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020202"/>
+      <stop offset="45%" stop-color="#070707"/>
+      <stop offset="72%" stop-color="#230707"/>
+      <stop offset="100%" stop-color="#020202"/>
+    </linearGradient>
+
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a5b10"/>
+      <stop offset="38%" stop-color="#f7df86"/>
+      <stop offset="68%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#fff3b0"/>
+      <animate attributeName="x1" values="0;0.28;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0.72;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="energyLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5a0f0f"/>
+      <stop offset="50%" stop-color="#d4af37"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M 64 0 L 0 0 0 64" fill="none" stroke="#d4af37" stroke-width="0.6" opacity="0.16"/>
+    </pattern>
+
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#d4af37" opacity="0.18"/>
+    </pattern>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="520" fill="url(#background)"/>
+  <rect width="1600" height="520" fill="url(#grid)" opacity="0.7"/>
+  <rect width="1600" height="520" fill="url(#dots)" opacity="0.55"/>
+
+  <g opacity="0.48">
+    <path d="M-160 390 C 180 230, 460 520, 760 345 S 1190 135, 1760 270" fill="none" stroke="#d4af37" stroke-width="2"/>
+    <path d="M-120 160 C 220 35, 520 210, 810 138 S 1270 65, 1720 172" fill="none" stroke="#5a0f0f" stroke-width="3"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 34 0; 0 0" dur="13s" repeatCount="indefinite"/>
+  </g>
+
+  <g filter="url(#glow)" opacity="0.92">
+    <circle cx="1260" cy="120" r="4" fill="#d4af37">
+      <animate attributeName="opacity" values="0.25;1;0.25" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1375" cy="220" r="4" fill="#d4af37">
+      <animate attributeName="opacity" values="1;0.35;1" dur="4.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1210" cy="330" r="4" fill="#0f766e">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M1210 330 L1260 120 L1375 220 L1210 330" fill="none" stroke="#d4af37" stroke-width="1.3" opacity="0.55"/>
+  </g>
+
+  <g transform="translate(82 78)">
+    <rect x="0" y="0" width="1436" height="364" rx="30" fill="#050505" opacity="0.72" stroke="url(#gold)" stroke-width="2"/>
+    <rect x="24" y="24" width="1388" height="316" rx="22" fill="none" stroke="#5a0f0f" stroke-width="1" opacity="0.72"/>
+
+    <text x="64" y="120" fill="url(#gold)" font-family="JetBrains Mono, Consolas, monospace" font-size="58" font-weight="800">
+      Yosvel Delta · CoderDeltaLAN
+    </text>
+
+    <text x="68" y="182" fill="#ffffff" font-family="JetBrains Mono, Consolas, monospace" font-size="30" font-weight="700" opacity="0.96">
+      CDLAN · Applied AI · RAG · Automation · Static professional web systems
+    </text>
+
+    <line x1="68" y1="224" x2="1280" y2="224" stroke="url(#energyLine)" stroke-width="3" opacity="0.96">
+      <animate attributeName="x2" values="760;1280;760" dur="7s" repeatCount="indefinite"/>
+    </line>
+
+    <text x="70" y="274" fill="#d6d6d6" font-family="JetBrains Mono, Consolas, monospace" font-size="22">
+      verified delivery · protected main · no private data · no empty hype
+    </text>
+
+    <text x="70" y="314" fill="#0f766e" font-family="JetBrains Mono, Consolas, monospace" font-size="20">
+      &gt; systems that can be explained, tested and maintained
+      <animate attributeName="opacity" values="0.62;1;0.62" dur="4s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <rect x="0" y="0" width="1600" height="4" fill="url(#gold)" opacity="0.9"/>
+  <rect x="0" y="516" width="1600" height="4" fill="url(#gold)" opacity="0.9"/>
+
+  <rect x="-360" y="0" width="220" height="520" fill="#ffffff" opacity="0.052" transform="skewX(-18)">
+    <animate attributeName="x" values="-360;1800" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
